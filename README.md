@@ -5,8 +5,7 @@
 사용자는 지도에서 주변 카페를 훑어보고, 키워드 랭킹과 테마 추천으로 취향에 맞는 카페를 발견한 뒤, 상세 모달에서 리뷰와 메뉴, 길찾기까지 한 흐름으로 확인할 수 있습니다.
 
 ## 서비스 데모
-
-<video src="./docs/assets/service-demo.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/a6908096-1586-42ac-a541-1533ac30db99
 
 > 영상이 보이지 않는 환경에서는 [service-demo.mp4](./docs/assets/service-demo.mp4)를 직접 열어 확인할 수 있습니다.
 
